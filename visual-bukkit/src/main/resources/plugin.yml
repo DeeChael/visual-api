@@ -1,0 +1,4 @@
+name: VisualBukkit
+main: net.deechael.visual.bukkit.VisualBukkitPlugin
+version: 1.0.0
+api-version: 1.13
